@@ -16,7 +16,7 @@ use DMS\PHPUnitExtensions\ArraySubset\ArraySubsetAsserts;
 use ReflectionClass;
 use ReflectionMethod;
 
-class UseMetadataAttributesTest extends TestCase
+class GetFromMetadataAttributesTest extends TestCase
 {
     use ArraySubsetAsserts;
 
