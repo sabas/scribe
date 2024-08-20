@@ -19,7 +19,6 @@
         "ext-fileinfo": "*",
         "ext-json": "*",
         "ext-pdo": "*",
-        "api-ecosystem-for-laravel/dingo-api": "^4.2",
         "erusev/parsedown": "1.7.4",
         "fakerphp/faker": "^1.9.1",
         "illuminate/console": "^8.0|^9.0|^10.0|^11.0",
@@ -48,7 +47,8 @@
         "phpstan/phpstan": "^1.0",
         "phpunit/phpunit": "^9.0|^10.0",
         "symfony/css-selector": "^5.4|^6.0",
-        "symfony/dom-crawler": "^5.4|^6.0"
+        "symfony/dom-crawler": "^5.4|^6.0",
+        "api-ecosystem-for-laravel/dingo-api": "^4.2"
     },
     "autoload": {
         "psr-4": {
